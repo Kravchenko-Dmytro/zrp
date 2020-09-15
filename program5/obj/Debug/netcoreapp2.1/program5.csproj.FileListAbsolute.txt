@@ -1,0 +1,12 @@
+C:\Users\1234\source\repos\program5\program5\bin\Debug\netcoreapp2.1\program5.deps.json
+C:\Users\1234\source\repos\program5\program5\bin\Debug\netcoreapp2.1\program5.runtimeconfig.json
+C:\Users\1234\source\repos\program5\program5\bin\Debug\netcoreapp2.1\program5.runtimeconfig.dev.json
+C:\Users\1234\source\repos\program5\program5\bin\Debug\netcoreapp2.1\program5.dll
+C:\Users\1234\source\repos\program5\program5\bin\Debug\netcoreapp2.1\program5.pdb
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.csprojAssemblyReference.cache
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.csproj.CoreCompileInputs.cache
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.AssemblyInfoInputs.cache
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.AssemblyInfo.cs
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.dll
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.pdb
+C:\Users\1234\source\repos\program5\program5\obj\Debug\netcoreapp2.1\program5.genruntimeconfig.cache
